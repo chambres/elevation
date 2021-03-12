@@ -1,0 +1,1 @@
+Put it in your path and run ```elevate```.
